@@ -1,0 +1,7 @@
+﻿  OP_LABA1.cpp
+  c-style.cpp
+C:\Users\User\source\repos\OP_LABA1\OP_LABA1\c-style.cpp(34,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\OP_LABA1\OP_LABA1\c-style.cpp(46,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\OP_LABA1\OP_LABA1\c-style.cpp(50,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  OP_LABA1.vcxproj -> C:\Users\User\source\repos\OP_LABA1\Debug\OP_LABA1.exe

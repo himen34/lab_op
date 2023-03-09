@@ -1,0 +1,7 @@
+﻿  strings.cpp
+  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+C:\Users\User\source\repos\OP_LABA1\OP_LABA1\c-style.cpp(112): warning C4715: 'checkevenchars_c': not all control paths return a value
+C:\Users\User\source\repos\OP_LABA1\OP_LABA1\c-style.cpp(188): error C4703: potentially uninitialized local pointer variable 'nameoffile2' used
+  All 244 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed
