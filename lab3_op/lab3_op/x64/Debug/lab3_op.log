@@ -1,5 +1,0 @@
-﻿  functions.cpp
-C:\Users\vanya\source\repos\lab3_op\lab3_op\functions.cpp(5,17): warning C4101: 'minute': unreferenced local variable
-C:\Users\vanya\source\repos\lab3_op\lab3_op\functions.cpp(5,11): warning C4101: 'hour': unreferenced local variable
-C:\Users\vanya\source\repos\lab3_op\lab3_op\functions.cpp(5,6): warning C4101: 'num': unreferenced local variable
-  lab3_op.vcxproj -> C:\Users\vanya\source\repos\lab3_op\x64\Debug\lab3_op.exe
