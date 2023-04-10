@@ -1,0 +1,6 @@
+﻿  functions_binary.cpp
+C:\Users\vanya\source\repos\OP_LABA2\OP_LABA2\functions_binary.cpp(14,14): warning C4101: 'today': unreferenced local variable
+C:\Users\vanya\source\repos\OP_LABA2\OP_LABA2\functions_binary.cpp(82,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OP_LABA2.cpp
+  Generating Code...
+  OP_LABA2.vcxproj -> C:\Users\vanya\source\repos\OP_LABA2\x64\Debug\OP_LABA2.exe
