@@ -1,0 +1,8 @@
+﻿  classes.cpp
+C:\Users\vanya\source\repos\OP_LABA5\op_lab5\classes.cpp(15,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  functions.cpp
+C:\Users\vanya\source\repos\OP_LABA5\op_lab5\functions.cpp(42,28): warning C4101: 'flag3': unreferenced local variable
+  op_lab5.cpp
+C:\Users\vanya\source\repos\OP_LABA5\op_lab5\op_lab5.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  op_lab5.vcxproj -> C:\Users\vanya\source\repos\OP_LABA5\x64\Debug\op_lab5.exe
